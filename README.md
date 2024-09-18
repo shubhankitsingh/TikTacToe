@@ -1,3 +1,3 @@
 # TikTacToe
 
-### Create my first web game.
+### Created my first web game.
